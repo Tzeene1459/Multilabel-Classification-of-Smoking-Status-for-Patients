@@ -31,10 +31,15 @@ The dataset was available pre-segregated into training samples and a test set.
 
 
 smoking-status/ │-- ProjectReport.md # Detailed report of the project methodology and findings
+
 │-- README.md # Project documentation
-│-- SmokingStatusBERT.ipynb # Notebook for BERT-based classification
+
+│-- SmokingStatusBERT.ipynb # Notebook for BERT-based classification'
+
 │-- SmokingStatusClassificationSIMPLE.ipynb # Notebook for SVM & Logistic Regression with TF-IDF
+
 │-- SmokingStatusW2V.ipynb # Notebook for Word2Vec embeddings and experimentation
+
 │-- SmokingStatusPresentation.pptx # Presentation summarizing project findings
 
 
