@@ -30,7 +30,9 @@ The dataset was available pre-segregated into training samples and a test set.
 ## Repository Structure  
 
 
-smoking-status/ │-- ProjectReport.md # Detailed report of the project methodology and findings
+smoking-status/ 
+
+│-- ProjectReport.md # Detailed report of the project methodology and findings
 
 │-- README.md # Project documentation
 
