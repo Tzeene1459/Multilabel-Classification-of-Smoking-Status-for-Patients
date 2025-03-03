@@ -30,7 +30,7 @@ The dataset was available pre-segregated into training samples and a test set.
 ## Repository Structure  
 
 
-smoking-status/ 
+Multilabel-Classification-of-Smoking-Status-for-Patients/ 
 
 │-- ProjectReport.md # Detailed report of the project methodology and findings
 
